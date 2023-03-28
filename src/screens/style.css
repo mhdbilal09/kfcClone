@@ -1,0 +1,13 @@
+body{
+    background-image: url('../images/texture.png');
+    height: 100vh;
+    width: 100%;
+    background-color: #000;
+    color: white;
+}
+
+.login{
+    padding: 50px;
+    background-color: rgb(34, 34, 34);
+    border-radius: 20px;
+}

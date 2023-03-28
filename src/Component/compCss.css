@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #000 !important;
+}
+
+.searchBox{
+    background-color: #636060 !important;
+    outline: none;
+    border: none;
+}
+
+.modal-content{
+    background-color: #353434 !important;
+}
+
+.cartBtn{
+    border-radius: 8px;
+    border: 2px solid white !important;
+}
+
